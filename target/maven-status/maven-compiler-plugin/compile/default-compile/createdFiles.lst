@@ -42,6 +42,7 @@ org\apache\beam\examples\common\ExampleBigQueryTableOptions$BigQueryTableFactory
 org\apache\beam\examples\complete\game\utils\WriteWindowedToBigQuery.class
 org\apache\beam\examples\subprocess\kernel\SubProcessIOFiles.class
 org\apache\beam\examples\subprocess\utils\CallingSubProcessUtils.class
+org\apache\beam\examples\MinimalPageRanknuvvala.class
 org\apache\beam\examples\common\ExampleBigQueryTableOptions.class
 org\apache\beam\examples\common\ExampleOptions.class
 org\apache\beam\examples\common\ExamplePubsubTopicOptions$PubsubTopicFactory.class
@@ -58,6 +59,7 @@ org\apache\beam\examples\complete\game\utils\WriteToText$BuildRowFn.class
 org\apache\beam\examples\WindowedWordCount.class
 org\apache\beam\examples\complete\game\UserScore$ParseEventFn.class
 org\apache\beam\examples\complete\game\utils\WriteToText$WriteOneFilePerWindow.class
+org\apache\beam\examples\pagerank.class
 org\apache\beam\examples\complete\game\LeaderBoard$CalculateTeamScores.class
 org\apache\beam\examples\DebuggingWordCount$FilterTextFn.class
 org\apache\beam\examples\subprocess\SubProcessPipelineOptions.class
