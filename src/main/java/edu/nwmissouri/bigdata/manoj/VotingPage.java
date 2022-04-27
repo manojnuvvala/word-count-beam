@@ -1,4 +1,4 @@
-package edu.nwmissouri.bigdatapy.manoj;
+package edu.nwmissouri.bigdata.manoj;
 
 
 import java.io.Serializable;
